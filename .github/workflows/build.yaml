@@ -23,7 +23,7 @@ env:
 
   # Build Configuration
   CONFIG_FILE: ax6.config
-  CUSTOM_FILES_PATH: files
+  # CUSTOM_FILES_PATH: files
 
   # Release Configuration
   RELEASE_PREFIX: main-nss
