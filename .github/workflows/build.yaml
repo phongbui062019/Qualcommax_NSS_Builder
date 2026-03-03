@@ -22,7 +22,7 @@ env:
   NSS_PACKAGES_REPOSITORY_BRANCH: NSS-12.5-K6.x
 
   # Build Configuration
-  CONFIG_FILE: ax3600.config
+  CONFIG_FILE: ax6.config
   CUSTOM_FILES_PATH: files
 
   # Release Configuration
